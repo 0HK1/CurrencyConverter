@@ -61,6 +61,10 @@ Este projeto foi criado com o objetivo de atender a uma série de desafios propo
 4. **Verificar o `pom.xml`**:
    - Atualize o arquivo `pom.xml`, caso necessário, para a instalação adequada das dependências.
 
+6. **Configurar Chave de API**:
+	- Acesse `config.properties` dentro de `src/main/resources`.
+	- Altere o campo `API.KEY` com a sua chave da ExchangeRate API.
+
 5. **Localizar a Classe Principal**:
    - No **Project Explorer**, navegue até o pacote `main` onde está a classe `Main.java`.
 
